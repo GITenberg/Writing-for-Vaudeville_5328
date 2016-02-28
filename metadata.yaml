@@ -1,0 +1,20 @@
+_repo: Writing-for-Vaudeville_5328
+creator:
+  author:
+    agent_name: Page, Brett
+    gutenberg_agent_id: '1769'
+    url: http://www.gutenberg.org/2009/agents/1769
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vaudeville'
+- !lcc 'PN'
+title: Writing for Vaudeville
+url: http://www.gutenberg.org/ebooks/5328
