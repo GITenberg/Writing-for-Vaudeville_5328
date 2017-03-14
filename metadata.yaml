@@ -1,11 +1,16 @@
 _repo: Writing-for-Vaudeville_5328
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Page, Brett
     gutenberg_agent_id: '1769'
     url: http://www.gutenberg.org/2009/agents/1769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5328#Writing-for-Vaudeville
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
