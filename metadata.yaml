@@ -1,5 +1,5 @@
 _repo: Writing-for-Vaudeville_5328
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -22,5 +22,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Vaudeville'
 - !lcc 'PN'
+- GITenberg
 title: Writing for Vaudeville
 url: http://www.gutenberg.org/ebooks/5328
